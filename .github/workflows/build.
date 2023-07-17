@@ -1,5 +1,4 @@
-name: Build
-
+ame: Build
 on: [push, pull_request, workflow_dispatch]
 
 jobs:
